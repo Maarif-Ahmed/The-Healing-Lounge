@@ -11,8 +11,8 @@ sys.path.insert(0, os.path.abspath('.'))
 
 
 # -- Project information -----------------------------------------------------
-project = 'Your Project Name'
-author = 'Your Name'
+project = 'The Healing Lounge'
+author = 'The Healing Lounge'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'
