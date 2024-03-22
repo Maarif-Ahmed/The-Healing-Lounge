@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry]
+name = "The-Healing-Lounge"
+version = "0.1.0"
+description = "Description of your project."
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+
+[tool.poetry.plugins]
+
+[tool.poetry.extras]
+
+[tool.poetry.metadata]
+license = "MIT"
+
+[tool.poetry.source]
+url = "https://github.com/Maarif-Ahmed/The-Healing-Lounge"
